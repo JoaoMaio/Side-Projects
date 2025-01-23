@@ -1,0 +1,1 @@
+Para ligar o bot basta ir na CMD, vir até esta pasta e dar "node ."
